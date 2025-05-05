@@ -1,0 +1,1 @@
+CODE_ROOT_FOLDER = "/content/numpy/"
